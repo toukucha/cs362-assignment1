@@ -5,6 +5,8 @@ import java.util.List;
 
 //test git commit to repo
 
+//second test for new branch: "work".
+
 public final class Card implements Comparable<Card>, Cloneable{
 	public static enum Type {
 		ACTION, TREASURE, VICTORY;
