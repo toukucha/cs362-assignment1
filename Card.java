@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-//test git commit
+//test git commit to repo
 
 public final class Card implements Comparable<Card>, Cloneable{
 	public static enum Type {
